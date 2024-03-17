@@ -1,7 +1,5 @@
 ## Simple Chrome Extension with Gemini API
 
----
-
 Just Simple Chrome Extension Example Project, using Gemini API from Google<br>
 Because Chrome Extension has strict security policy, Gemini REST API is used instead of Module API.<br>
 You can simply input some texts, and get answer from Gemini with Extension.
