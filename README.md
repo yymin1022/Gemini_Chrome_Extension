@@ -10,6 +10,13 @@ You can simply input some texts, and get answer from Gemini with Extension.
 `popup_menu.html` is Simple Layout with HTML Elements<br>
 `popup_menu.js` is Main Logic of Extension. You need to enter Gemini API Key from [AI Studio](https://aistudio.google.com) at `GEMINI_API_KEY` Variable.
 
+### Screenshots
+
+<div style="display: flex; flex-direction: row;">
+    <img src="screenshots/1.png" width="183" height="142" />
+    <img src="screenshots/2.png" width="183" height="246" />
+</div>
+
 ### Info
 
 Developed by [Yongmin Yoo](https://github.com/yymin1022), Lead of GDSC Chung-Ang University 23-24<br>
