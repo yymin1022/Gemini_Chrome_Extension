@@ -1,0 +1,12 @@
+{
+  "author": "Dev. LR",
+  "name": "Gemini on Chrome Extension",
+  "description": "Build with AI w/GDSC CAU, YSU",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup_menu.html"
+  },
+  "content_scripts": [],
+  "permissions": []
+}
